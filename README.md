@@ -1,4 +1,4 @@
-# Base images
+# HAProxy images
 
 This repository provides haproxy images with various simple configurations that can be parameterized with environment variables
 
