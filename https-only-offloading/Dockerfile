@@ -1,4 +1,4 @@
-FROM base:alpine
+FROM jsalverda/base:alpine
 
 MAINTAINER Jorrit Salverda
 
