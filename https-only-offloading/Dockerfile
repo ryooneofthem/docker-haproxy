@@ -1,6 +1,6 @@
 FROM base:alpine
 
-MAINTAINER Jorrit Salverda <jorrit.salverda@gmail.com>
+MAINTAINER Jorrit Salverda
 
 # build time environment variables
 ENV USER_NAME haproxy
